@@ -34,7 +34,9 @@
 
 :star2::star2::star2: Mode-mode :star2::star2::star2:
 
+
 Exploring Mode :
+
 PODs akan menyebar dan berpindah ke semua arah dan prioritas untuk menemukan zone dengan platinum terbanyak
 
 Defensive Mode :

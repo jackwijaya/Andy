@@ -14,10 +14,11 @@
 menguasai base musuh
 memiliki zone terbanyak setelah 250 turns`
 ```
-
+```
 ### Kondisi kalah :
 base dikuasai musuh
 memiliki zone terbanyak setelah 250 turns
+```
 
 ### Code akan berisi modul-modul :
 mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
@@ -26,14 +27,14 @@ perhitungan jarak musuh
 penentu perubahan mode (exploring, defensive,offensive)
 
 
-####### Mode-mode :
+:star2::star2::star2: Mode-mode ::star2::star2::star2:
 Exploring Mode :
 PODs akan menyebar dan berpindah ke semua arah dan prioritas untuk menemukan zone dengan platinum terbanyak
 
 Defensive Mode :
-Mendefend jalan yang memungkingkan musuh sampai ke Base
-jika memungkinkan lindungi zone dengan platinum terbanyak
+1. Mendefend jalan yang memungkingkan musuh sampai ke Base
+2. jika memungkinkan lindungi zone dengan platinum terbanyak
 
 Offensive Mode :
-Mengambil jalan terdekat ke base musuh
-Mengumpulkan pods terdekat untuk menyerang musuh
+1. Mengambil jalan terdekat ke base musuh
+2. Mengumpulkan pods terdekat untuk menyerang musuh

@@ -37,12 +37,12 @@
 
 *Exploring Mode :*
 
-- PODs akan menyebar dan berpindah ke semua arah dan prioritas untuk menemukan zone dengan platinum terbanyak
+1. PODs akan menyebar dan berpindah ke semua arah dan prioritas untuk menemukan zone dengan platinum terbanyak
 
-Defensive Mode :
+*Defensive Mode :*
 1. Mendefend jalan yang memungkingkan musuh sampai ke Base
 2. jika memungkinkan lindungi zone dengan platinum terbanyak
 
-Offensive Mode :
+*Offensive Mode :*
 1. Mengambil jalan terdekat ke base musuh
 2. Mengumpulkan pods terdekat untuk menyerang musuh

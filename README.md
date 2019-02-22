@@ -22,7 +22,7 @@
 ```
 
 # Code akan berisi modul-modul : 
-
+```
 -mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
 
 -perhitungan jarak terdekat
@@ -30,7 +30,7 @@
 -perhitungan jarak musuh
 
 -penentu perubahan mode (exploring, defensive,offensive)
-
+```
 
 :star2::star2::star2: Mode-mode :star2::star2::star2:
 

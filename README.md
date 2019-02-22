@@ -1,6 +1,6 @@
-# * Andy *
 
-:zap::zap::zap::zap::zap::zap::zap::zap:
+
+:snowflake::snowflake::snowflake::snowflake::snowflake::snowflake::snowflake::snowflake::snowflake::snowflake::snowflake:
 # D-3Sekuro-Plat-Rift
 
 *Tugas D-3 Sekuro by : 16518274, 16518282, 16918190*
@@ -24,8 +24,11 @@
 # Code akan berisi modul-modul : 
 
 -mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
+
 -perhitungan jarak terdekat
+
 -perhitungan jarak musuh
+
 -penentu perubahan mode (exploring, defensive,offensive)
 
 

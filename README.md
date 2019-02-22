@@ -10,24 +10,25 @@
 
 # Strategi
 ```
-### Kondisi menang :
-menguasai base musuh
-memiliki zone terbanyak setelah 250 turns`
+- Kondisi menang :
+  1. menguasai base musuh
+  2. memiliki zone terbanyak setelah 250 turns`
 ```
 ```
-### Kondisi kalah :
-base dikuasai musuh
-memiliki zone terbanyak setelah 250 turns
+- Kondisi kalah :
+  1. base dikuasai musuh
+  2. memiliki zone terbanyak setelah 250 turns
 ```
 
-### Code akan berisi modul-modul :
-mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
-perhitungan jarak terdekat
-perhitungan jarak musuh
-penentu perubahan mode (exploring, defensive,offensive)
+# Code akan berisi modul-modul : 
+-mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
+-perhitungan jarak terdekat
+-perhitungan jarak musuh
+-penentu perubahan mode (exploring, defensive,offensive)
 
 
-:star2::star2::star2: Mode-mode ::star2::star2::star2:
+:star2::star2::star2: Mode-mode :star2::star2::star2:
+
 Exploring Mode :
 PODs akan menyebar dan berpindah ke semua arah dan prioritas untuk menemukan zone dengan platinum terbanyak
 

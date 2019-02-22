@@ -1,11 +1,11 @@
 # Andy
 
-
+:star2::star2::star2::star2::star2::star2::star2::star2::star2:
 # D-3Sekuro-Plat-Rift
 
 *Tugas D-3 Sekuro by : 16518274, 16518282, 16918190*
 
-### Platinum Rift Episode 2
+# Platinum Rift Episode 2
 #### *https://www.codingame.com/ide/puzzle/platinum-rift-episode-2*
 
 # Strategi
@@ -14,6 +14,7 @@
   1. menguasai base musuh
   2. memiliki zone terbanyak setelah 250 turns`
 ```
+
 ```
 - Kondisi kalah :
   1. base dikuasai musuh
@@ -21,6 +22,7 @@
 ```
 
 # Code akan berisi modul-modul : 
+
 -mengetahui zona-zona yang diketahui dan terhubung dan menyimpan informasi dalam array of array
 -perhitungan jarak terdekat
 -perhitungan jarak musuh
